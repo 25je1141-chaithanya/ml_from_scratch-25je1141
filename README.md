@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ML From Scratch
 
 This repository contains a Machine Learning library built **from scratch** using only **NumPy**, **Pandas**, and **Matplotlib** — without using scikit-learn or any high-level ML frameworks.
@@ -31,3 +32,6 @@ This repository contains a Machine Learning library built **from scratch** using
 - Pandas
 - Matplotlib
 
+=======
+# ml_from_scratch-25je1141
+>>>>>>> 14cc28f6ea382dcac9e11a5122afbf22c93790de
